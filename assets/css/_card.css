@@ -66,21 +66,21 @@
 } 
 
 .card__img--1{
-    background-image: url(../img/pexels-alex-andrews-821735.jpg);
+    background-image: url(./img/pexels-alex-andrews-821735.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 140px;
 }
 
 .card__img--2{
-    background-image: url(../img/pexels-cottonbro-4620607.jpg);
+    background-image: url(./img/pexels-cottonbro-4620607.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 140px;
 }
 
 .card__img--3{
-    background-image: url(../img/pexels-adonyi-gábor-1409217.jpg);
+    background-image: url(./img/pexels-adonyi-gábor-1409217.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 140px;

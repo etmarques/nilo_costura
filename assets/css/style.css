@@ -1,5 +1,5 @@
-@import url(../css/_layout.css);
-@import url(../css/_card.css);
+@import url(./css/_layout.css);
+@import url(./css/_card.css);
 
 :root{
     --corBase: #FEEFE5;
@@ -73,7 +73,7 @@
 }
 
 .banner{
-    background: url(../img/pina-messina-qQKv7r1BaRw-unsplash.jpg);
+    background: url(./img/pina-messina-qQKv7r1BaRw-unsplash.jpg);
     background-size:cover;
     background-position:bottom;
     background-repeat: no-repeat;
